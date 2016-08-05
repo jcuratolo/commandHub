@@ -1,0 +1,7 @@
+{
+  "module": "commonjs",
+  "files": [
+    "./abstractions/abstractions.d.ts",
+    "./commandBus/commandBus.ts"
+  ]
+}
